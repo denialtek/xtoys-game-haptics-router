@@ -48,7 +48,7 @@
     <Compile Include="..\GHRUnityVRModNet45\GHRUnityVRMod.cs">
       <Link>GHRUnityVRMod.cs</Link>
     </Compile>
-    <Compile Include="..\IntifaceGameHapticsRouter\GHRProtocol.cs">
+    <Compile Include="..\XToysGameHaptics\GHRProtocol.cs">
       <Link>GHRProtocol.cs</Link>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />

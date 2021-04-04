@@ -1,0 +1,9 @@
+{
+  "name": "app.xtoys.gamehapticsrouter",
+  "description": "XToys Game Haptics Router",
+  "path": "XToysGameHaptics.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://hhddbheipffnedlmnefnkjeplkgbajij/"
+  ]
+}

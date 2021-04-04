@@ -47,7 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\IntifaceGameHapticsRouter\GHRProtocol.cs">
+    <Compile Include="..\XToysGameHaptics\GHRProtocol.cs">
       <Link>GHRProtocol.cs</Link>
     </Compile>
     <Compile Include="GHRUnityVRMod.cs" />
